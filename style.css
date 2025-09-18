@@ -1,0 +1,46 @@
+
+.bg-primary {
+  background-color: #0d9488 !important; 
+}
+.btn-primary {
+  background-color: #0d9488 !important;
+  border-color: #0d9488 !important;
+}
+.btn-primary:hover {
+  background-color: #0a7f72 !important;
+  border-color: #0a7f72 !important;
+}
+
+
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(135deg, #0d9488, #115e59);
+  color: white;
+}
+
+/* Card styling */
+.card {
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 8px 20px rgba(0,0,0,0.15);
+}
+
+/* Testimonials section */
+.testimonial {
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  background-color: #115e59 !important;
+}
