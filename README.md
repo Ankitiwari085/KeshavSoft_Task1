@@ -6,7 +6,7 @@ The goal is to design a **clean, modern, and responsive multi-page website** usi
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view the live site]((https://ankitiwari085.github.io/KeshavSoft_Task1/))  
+👉 [Click here to view the live site](https://ankitiwari085.github.io/KeshavSoft_Task1/)  
 
 ---
 
